@@ -1,0 +1,10 @@
+com\example\bookservice\domain\Book.class
+com\example\bookservice\repo\BookRepository.class
+com\example\bookservice\BookServiceApplication.class
+com\example\bookservice\web\InstanceController.class
+com\example\bookservice\web\ApiErrors.class
+com\example\bookservice\web\BookController.class
+com\example\bookservice\config\HttpConfig.class
+com\example\bookservice\service\PricingClient.class
+com\example\bookservice\service\BookService$BorrowResult.class
+com\example\bookservice\service\BookService.class
